@@ -1,18 +1,17 @@
 import styles from './FlashcardCard.module.css';
-import { ColoredSentence } from './ColoredSentence.jsx';
 
+// SIDE 1 — ENGLISH (shown first, before flip)
 export function CardFront({ card }) {
-  const { signal, word, grammar, sentence } = card.side2;
+  const { wordTranslation, sentenceTranslation } = card.side1;
   return (
     <div className={styles.face + ' ' + styles.front}>
-      <span className={styles.signal} aria-label={signal.label} title={signal.label}>
-        {signal.emoji}
-      </span>
-      {word && <h2 className={styles.word}>{word}</h2>}
-      {grammar && <p className={styles.grammar}>{grammar}</p>}
-      <div className={styles.divider} />
-      <ColoredSentence segments={sentence.segments} />
-      <p className={styles.tapHint}>Tap to flip</p>
+      <span className={styles.sideLabel}>English</span>
+      {wordTranslation && <h2 className={styles.word}>{wordTranslation}</h2>}
+      {wordTranslation && <div className={styles.divider} />}
+      {sentenceTranslation && (
+        <p className={styles.sentenceEng}>{sentenceTranslation}</p>
+      )}
+      <p className={styles.tapHint}>Tap to see German</p>
     </div>
   );
 }

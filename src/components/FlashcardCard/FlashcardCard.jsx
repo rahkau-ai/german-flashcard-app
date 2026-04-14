@@ -27,7 +27,7 @@ export function FlashcardCard() {
       onTouchEnd={onTouchEnd}
       role="button"
       tabIndex={0}
-      aria-label={state.isFlipped ? 'Card back — English side' : 'Card front — German side'}
+      aria-label={state.isFlipped ? 'German side — color-coded' : 'English side — try to recall German'}
       onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') handleClick(); }}
     >
       <div className={styles.inner + (state.isFlipped ? ' ' + styles.flipped : '')}>
