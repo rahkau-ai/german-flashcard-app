@@ -1,0 +1,45 @@
+:root {
+  /* Typography */
+  --font-primary: 'Lexend', 'Atkinson Hyperlegible', system-ui, sans-serif;
+  --font-size-base: 18px;
+  --font-size-word: 28px;
+  --font-size-signal: 40px;
+  --font-size-sentence: 20px;
+  --font-size-small: 14px;
+  --font-size-counter: 16px;
+  --line-height: 1.8;
+  --letter-spacing: 0.03em;
+  --word-spacing: 0.1em;
+  --font-weight-normal: 400;
+  --font-weight-bold: 700;
+
+  /* Colors — backgrounds */
+  --bg-page: #FAFAF7;
+  --bg-card-front: #FFFFFF;
+  --bg-card-back: #F0F4FF;
+  --bg-controls: #FAFAF7;
+
+  /* Colors — text */
+  --text-primary: #2D2D2D;
+  --text-secondary: #5A5A5A;
+  --text-muted: #888888;
+
+  /* Colors — UI */
+  --color-accent: #3B5BDB;
+  --color-accent-hover: #2F4AC0;
+  --color-progress: #4CAF50;
+  --color-progress-bg: #E0E0E0;
+  --color-border: #E0E0E0;
+  --color-shadow: rgba(0, 0, 0, 0.08);
+  --shadow-card: 0 4px 16px rgba(0, 0, 0, 0.08);
+
+  /* Spacing */
+  --card-padding: 28px 24px;
+  --card-radius: 20px;
+  --section-gap: 20px;
+  --touch-target: 48px;
+
+  /* Card sizing */
+  --card-max-width: 440px;
+  --card-min-height: 380px;
+}

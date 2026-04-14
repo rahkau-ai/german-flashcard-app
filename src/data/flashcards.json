@@ -1,0 +1,1571 @@
+{
+  "decks": [
+    {
+      "id": "what-is-konjunktiv-ii",
+      "title": "Konjunktiv II",
+      "source": "What is Konjunktiv II.docx",
+      "cardCount": 25
+    }
+  ],
+  "cards": [
+    {
+      "id": "konj2-sein-1",
+      "deckId": "what-is-konjunktiv-ii",
+      "tags": [
+        "verb",
+        "sein"
+      ],
+      "side2": {
+        "signal": {
+          "emoji": "🔴",
+          "label": "Verb"
+        },
+        "word": "wäre / wären (sein, irreg.)",
+        "grammar": "Konjunktiv II — unreal / polite",
+        "sentence": {
+          "text": "Wenn ich Zeit hätte, wäre ich glücklich.",
+          "segments": [
+            {
+              "text": "Wenn ",
+              "color": null,
+              "colorType": null
+            },
+            {
+              "text": "ich ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "Zeit ",
+              "color": "#C2185B",
+              "colorType": "fg"
+            },
+            {
+              "text": "hätte",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": ", ",
+              "color": null,
+              "colorType": null
+            },
+            {
+              "text": "wäre ",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": "ich ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "glücklich",
+              "color": "#E65100",
+              "colorType": "fg"
+            },
+            {
+              "text": ".",
+              "color": null,
+              "colorType": null
+            }
+          ]
+        }
+      },
+      "side1": {
+        "wordTranslation": "would be (to be, irreg.)",
+        "sentenceTranslation": "If I had time, I would be happy."
+      }
+    },
+    {
+      "id": "konj2-haben-2",
+      "deckId": "what-is-konjunktiv-ii",
+      "tags": [
+        "verb",
+        "haben"
+      ],
+      "side2": {
+        "signal": {
+          "emoji": "🔴",
+          "label": "Verb"
+        },
+        "word": "hätte / hätten (haben, irreg.)",
+        "grammar": "Konjunktiv II — unreal / hypothetical",
+        "sentence": {
+          "text": "Wenn ich mehr Zeit hätte, würde ich reisen.",
+          "segments": [
+            {
+              "text": "Wenn ",
+              "color": null,
+              "colorType": null
+            },
+            {
+              "text": "ich ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "mehr ",
+              "color": "#E65100",
+              "colorType": "fg"
+            },
+            {
+              "text": "Zeit ",
+              "color": "#C2185B",
+              "colorType": "fg"
+            },
+            {
+              "text": "hätte",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": ", ",
+              "color": null,
+              "colorType": null
+            },
+            {
+              "text": "würde ",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": "ich ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "reisen",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": ".",
+              "color": null,
+              "colorType": null
+            }
+          ]
+        }
+      },
+      "side1": {
+        "wordTranslation": "would have (to have, irreg.)",
+        "sentenceTranslation": "If I had more time, I would travel."
+      }
+    },
+    {
+      "id": "konj2-koennen-3",
+      "deckId": "what-is-konjunktiv-ii",
+      "tags": [
+        "verb",
+        "können"
+      ],
+      "side2": {
+        "signal": {
+          "emoji": "🔴",
+          "label": "Verb"
+        },
+        "word": "könnte / könnten (können, irreg.)",
+        "grammar": "Konjunktiv II — polite request",
+        "sentence": {
+          "text": "Könnten Sie mir helfen?",
+          "segments": [
+            {
+              "text": "Könnten ",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": "Sie ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "mir ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "helfen",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": "?",
+              "color": null,
+              "colorType": null
+            }
+          ]
+        }
+      },
+      "side1": {
+        "wordTranslation": "could (to be able to, irreg.)",
+        "sentenceTranslation": "Could you help me?"
+      }
+    },
+    {
+      "id": "konj2-muessen-4",
+      "deckId": "what-is-konjunktiv-ii",
+      "tags": [
+        "verb",
+        "müssen"
+      ],
+      "side2": {
+        "signal": {
+          "emoji": "🔴",
+          "label": "Verb"
+        },
+        "word": "müsste / müssten (müssen, irreg.)",
+        "grammar": "Konjunktiv II — obligation / necessity",
+        "sentence": {
+          "text": "Ich müsste mehr lernen.",
+          "segments": [
+            {
+              "text": "Ich ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "müsste ",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": "mehr ",
+              "color": "#E65100",
+              "colorType": "fg"
+            },
+            {
+              "text": "lernen",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": ".",
+              "color": null,
+              "colorType": null
+            }
+          ]
+        }
+      },
+      "side1": {
+        "wordTranslation": "would have to (must, irreg.)",
+        "sentenceTranslation": "I would have to study more."
+      }
+    },
+    {
+      "id": "konj2-duerfen-5",
+      "deckId": "what-is-konjunktiv-ii",
+      "tags": [
+        "verb",
+        "dürfen"
+      ],
+      "side2": {
+        "signal": {
+          "emoji": "🔴",
+          "label": "Verb"
+        },
+        "word": "dürfte / dürften (dürfen, irreg.)",
+        "grammar": "Konjunktiv II — permission / possibility",
+        "sentence": {
+          "text": "Dürfte ich hier sitzen?",
+          "segments": [
+            {
+              "text": "Dürfte ",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": "ich ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "hier ",
+              "color": "#E65100",
+              "colorType": "fg"
+            },
+            {
+              "text": "sitzen",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": "?",
+              "color": null,
+              "colorType": null
+            }
+          ]
+        }
+      },
+      "side1": {
+        "wordTranslation": "might be allowed to (may, irreg.)",
+        "sentenceTranslation": "Would I be allowed to sit here?"
+      }
+    },
+    {
+      "id": "konj2-sollen-6",
+      "deckId": "what-is-konjunktiv-ii",
+      "tags": [
+        "verb",
+        "sollen"
+      ],
+      "side2": {
+        "signal": {
+          "emoji": "🔴",
+          "label": "Verb"
+        },
+        "word": "sollte / sollten (sollen, irreg.)",
+        "grammar": "Konjunktiv II — should / obligation",
+        "sentence": {
+          "text": "Was sollte ich ihr sagen?",
+          "segments": [
+            {
+              "text": "Was ",
+              "color": "#00897B",
+              "colorType": "fg"
+            },
+            {
+              "text": "sollte ",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": "ich ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "ihr ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "sagen",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": "?",
+              "color": null,
+              "colorType": null
+            }
+          ]
+        }
+      },
+      "side1": {
+        "wordTranslation": "should (to be supposed to, irreg.)",
+        "sentenceTranslation": "What should I say to her?"
+      }
+    },
+    {
+      "id": "konj2-wollen-7",
+      "deckId": "what-is-konjunktiv-ii",
+      "tags": [
+        "verb",
+        "wollen"
+      ],
+      "side2": {
+        "signal": {
+          "emoji": "🔴",
+          "label": "Verb"
+        },
+        "word": "wollte / wollten (wollen, irreg.)",
+        "grammar": "Konjunktiv II — wish / intention",
+        "sentence": {
+          "text": "Ich wollte früher aufstehen.",
+          "segments": [
+            {
+              "text": "Ich ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "wollte ",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": "früher ",
+              "color": "#E65100",
+              "colorType": "fg"
+            },
+            {
+              "text": "aufstehen",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": ".",
+              "color": null,
+              "colorType": null
+            }
+          ]
+        }
+      },
+      "side1": {
+        "wordTranslation": "wanted to (to want to, irreg.)",
+        "sentenceTranslation": "I wanted to get up earlier."
+      }
+    },
+    {
+      "id": "konj2-moegen-8",
+      "deckId": "what-is-konjunktiv-ii",
+      "tags": [
+        "verb",
+        "mögen"
+      ],
+      "side2": {
+        "signal": {
+          "emoji": "🔴",
+          "label": "Verb"
+        },
+        "word": "möchte / möchten (mögen, irreg.)",
+        "grammar": "Konjunktiv II — polite wish",
+        "sentence": {
+          "text": "Ich möchte einen Kaffee, bitte.",
+          "segments": [
+            {
+              "text": "Ich ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "möchte ",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": "einen ",
+              "color": null,
+              "colorType": null
+            },
+            {
+              "text": "Kaffee",
+              "color": "#1976D2",
+              "colorType": "fg"
+            },
+            {
+              "text": ", ",
+              "color": null,
+              "colorType": null
+            },
+            {
+              "text": "bitte",
+              "color": "#E65100",
+              "colorType": "fg"
+            },
+            {
+              "text": ".",
+              "color": null,
+              "colorType": null
+            }
+          ]
+        }
+      },
+      "side1": {
+        "wordTranslation": "would like to (to like, irreg.)",
+        "sentenceTranslation": "I would like a coffee, please."
+      }
+    },
+    {
+      "id": "dative-mir-9",
+      "deckId": "what-is-konjunktiv-ii",
+      "tags": [
+        "pronoun",
+        "dative",
+        "ich"
+      ],
+      "side2": {
+        "signal": {
+          "emoji": "💬",
+          "label": "Pronoun"
+        },
+        "word": "mir  (Dativ von ich)",
+        "grammar": "Dative case — indirect object (to me)",
+        "sentence": {
+          "text": "Könnten Sie mir helfen?",
+          "segments": [
+            {
+              "text": "Könnten ",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": "Sie ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "mir ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "helfen",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": "?",
+              "color": null,
+              "colorType": null
+            }
+          ]
+        }
+      },
+      "side1": {
+        "wordTranslation": "to me  (ich → mir)",
+        "sentenceTranslation": "Could you help me?"
+      }
+    },
+    {
+      "id": "dative-dir-10",
+      "deckId": "what-is-konjunktiv-ii",
+      "tags": [
+        "pronoun",
+        "dative",
+        "du"
+      ],
+      "side2": {
+        "signal": {
+          "emoji": "💬",
+          "label": "Pronoun"
+        },
+        "word": "dir  (Dativ von du)",
+        "grammar": "Dative case — indirect object (to you)",
+        "sentence": {
+          "text": "Könnte ich dir helfen?",
+          "segments": [
+            {
+              "text": "Könnte ",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": "ich ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "dir ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "helfen",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": "?",
+              "color": null,
+              "colorType": null
+            }
+          ]
+        }
+      },
+      "side1": {
+        "wordTranslation": "to you  (du → dir)",
+        "sentenceTranslation": "Could I help you?"
+      }
+    },
+    {
+      "id": "dative-ihm-er-11",
+      "deckId": "what-is-konjunktiv-ii",
+      "tags": [
+        "pronoun",
+        "dative",
+        "er"
+      ],
+      "side2": {
+        "signal": {
+          "emoji": "💬",
+          "label": "Pronoun"
+        },
+        "word": "ihm  (Dativ von er)",
+        "grammar": "Dative case — indirect object (to him)",
+        "sentence": {
+          "text": "Könnten Sie ihm sagen, wo meine Jacke ist?",
+          "segments": [
+            {
+              "text": "Könnten ",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": "Sie ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "ihm ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "sagen",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": ", ",
+              "color": null,
+              "colorType": null
+            },
+            {
+              "text": "wo ",
+              "color": "#00897B",
+              "colorType": "fg"
+            },
+            {
+              "text": "meine ",
+              "color": null,
+              "colorType": null
+            },
+            {
+              "text": "Jacke ",
+              "color": "#C2185B",
+              "colorType": "fg"
+            },
+            {
+              "text": "ist",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": "?",
+              "color": null,
+              "colorType": null
+            }
+          ]
+        }
+      },
+      "side1": {
+        "wordTranslation": "to him  (er → ihm)",
+        "sentenceTranslation": "Could you tell him where my jacket is?"
+      }
+    },
+    {
+      "id": "dative-ihr-sie-12",
+      "deckId": "what-is-konjunktiv-ii",
+      "tags": [
+        "pronoun",
+        "dative",
+        "sie"
+      ],
+      "side2": {
+        "signal": {
+          "emoji": "💬",
+          "label": "Pronoun"
+        },
+        "word": "ihr  (Dativ von sie — she)",
+        "grammar": "Dative case — indirect object (to her)",
+        "sentence": {
+          "text": "Könnten Sie ihr das zeigen?",
+          "segments": [
+            {
+              "text": "Könnten ",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": "Sie ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "ihr ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "das ",
+              "color": null,
+              "colorType": null
+            },
+            {
+              "text": "zeigen",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": "?",
+              "color": null,
+              "colorType": null
+            }
+          ]
+        }
+      },
+      "side1": {
+        "wordTranslation": "to her  (sie → ihr)",
+        "sentenceTranslation": "Could you show her that?"
+      }
+    },
+    {
+      "id": "dative-uns-13",
+      "deckId": "what-is-konjunktiv-ii",
+      "tags": [
+        "pronoun",
+        "dative",
+        "wir"
+      ],
+      "side2": {
+        "signal": {
+          "emoji": "💬",
+          "label": "Pronoun"
+        },
+        "word": "uns  (Dativ von wir)",
+        "grammar": "Dative case — indirect object (to us)",
+        "sentence": {
+          "text": "Könntest du uns das zeigen?",
+          "segments": [
+            {
+              "text": "Könntest ",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": "du ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "uns ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "das ",
+              "color": null,
+              "colorType": null
+            },
+            {
+              "text": "zeigen",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": "?",
+              "color": null,
+              "colorType": null
+            }
+          ]
+        }
+      },
+      "side1": {
+        "wordTranslation": "to us  (wir → uns)",
+        "sentenceTranslation": "Could you show that to us?"
+      }
+    },
+    {
+      "id": "dative-euch-14",
+      "deckId": "what-is-konjunktiv-ii",
+      "tags": [
+        "pronoun",
+        "dative",
+        "ihr-plural"
+      ],
+      "side2": {
+        "signal": {
+          "emoji": "💬",
+          "label": "Pronoun"
+        },
+        "word": "euch  (Dativ von ihr — plural)",
+        "grammar": "Dative case — indirect object (to you all)",
+        "sentence": {
+          "text": "Ich möchte euch helfen.",
+          "segments": [
+            {
+              "text": "Ich ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "möchte ",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": "euch ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "helfen",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": ".",
+              "color": null,
+              "colorType": null
+            }
+          ]
+        }
+      },
+      "side1": {
+        "wordTranslation": "to you all  (ihr → euch)",
+        "sentenceTranslation": "I would like to help you all."
+      }
+    },
+    {
+      "id": "dative-ihnen-15",
+      "deckId": "what-is-konjunktiv-ii",
+      "tags": [
+        "pronoun",
+        "dative",
+        "sie-formal"
+      ],
+      "side2": {
+        "signal": {
+          "emoji": "💬",
+          "label": "Pronoun"
+        },
+        "word": "ihnen / Ihnen  (Dativ von sie / Sie)",
+        "grammar": "Dative case — to them / to you (formal)",
+        "sentence": {
+          "text": "Könnten Sie ihnen schreiben?",
+          "segments": [
+            {
+              "text": "Könnten ",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": "Sie ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "ihnen ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "schreiben",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": "?",
+              "color": null,
+              "colorType": null
+            }
+          ]
+        }
+      },
+      "side1": {
+        "wordTranslation": "to them / to you (formal)  (sie/Sie → ihnen/Ihnen)",
+        "sentenceTranslation": "Could you write to them?"
+      }
+    },
+    {
+      "id": "sent-time-q-16",
+      "deckId": "what-is-konjunktiv-ii",
+      "tags": [
+        "sentence",
+        "indirect-question"
+      ],
+      "side2": {
+        "signal": {
+          "emoji": "🔴",
+          "label": "Verb"
+        },
+        "word": null,
+        "grammar": "Polite indirect question: Könnten Sie mir sagen, ...?",
+        "sentence": {
+          "text": "Könnten Sie mir sagen, wie spät es ist?",
+          "segments": [
+            {
+              "text": "Könnten ",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": "Sie ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "mir ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "sagen",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": ", ",
+              "color": null,
+              "colorType": null
+            },
+            {
+              "text": "wie ",
+              "color": "#00897B",
+              "colorType": "fg"
+            },
+            {
+              "text": "spät ",
+              "color": "#E65100",
+              "colorType": "fg"
+            },
+            {
+              "text": "es ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "ist",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": "?",
+              "color": null,
+              "colorType": null
+            }
+          ]
+        }
+      },
+      "side1": {
+        "wordTranslation": null,
+        "sentenceTranslation": "Could you tell me what time it is?"
+      }
+    },
+    {
+      "id": "sent-time-a-17",
+      "deckId": "what-is-konjunktiv-ii",
+      "tags": [
+        "sentence",
+        "answer"
+      ],
+      "side2": {
+        "signal": {
+          "emoji": "🔴",
+          "label": "Verb"
+        },
+        "word": null,
+        "grammar": null,
+        "sentence": {
+          "text": "Es ist halb drei.",
+          "segments": [
+            {
+              "text": "Es ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "ist ",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": "halb ",
+              "color": "#E65100",
+              "colorType": "fg"
+            },
+            {
+              "text": "drei",
+              "color": "#4A148C",
+              "colorType": "fg"
+            },
+            {
+              "text": ".",
+              "color": null,
+              "colorType": null
+            }
+          ]
+        }
+      },
+      "side1": {
+        "wordTranslation": null,
+        "sentenceTranslation": "It is half past two."
+      }
+    },
+    {
+      "id": "sent-jacket-q-18",
+      "deckId": "what-is-konjunktiv-ii",
+      "tags": [
+        "sentence",
+        "indirect-question"
+      ],
+      "side2": {
+        "signal": {
+          "emoji": "🔴",
+          "label": "Verb"
+        },
+        "word": null,
+        "grammar": "Indirect question with wo",
+        "sentence": {
+          "text": "Könnten Sie mir sagen, wo meine Jacke ist?",
+          "segments": [
+            {
+              "text": "Könnten ",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": "Sie ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "mir ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "sagen",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": ", ",
+              "color": null,
+              "colorType": null
+            },
+            {
+              "text": "wo ",
+              "color": "#00897B",
+              "colorType": "fg"
+            },
+            {
+              "text": "meine ",
+              "color": null,
+              "colorType": null
+            },
+            {
+              "text": "Jacke ",
+              "color": "#C2185B",
+              "colorType": "fg"
+            },
+            {
+              "text": "ist",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": "?",
+              "color": null,
+              "colorType": null
+            }
+          ]
+        }
+      },
+      "side1": {
+        "wordTranslation": null,
+        "sentenceTranslation": "Could you tell me where my jacket is?"
+      }
+    },
+    {
+      "id": "sent-jacket-a-19",
+      "deckId": "what-is-konjunktiv-ii",
+      "tags": [
+        "sentence",
+        "answer"
+      ],
+      "side2": {
+        "signal": {
+          "emoji": "🔴",
+          "label": "Verb"
+        },
+        "word": null,
+        "grammar": null,
+        "sentence": {
+          "text": "Sie hängt an der Garderobe.",
+          "segments": [
+            {
+              "text": "Sie ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "hängt ",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": "an ",
+              "color": "#6A1B9A",
+              "colorType": "fg"
+            },
+            {
+              "text": "der ",
+              "color": null,
+              "colorType": null
+            },
+            {
+              "text": "Garderobe",
+              "color": "#C2185B",
+              "colorType": "fg"
+            },
+            {
+              "text": ".",
+              "color": null,
+              "colorType": null
+            }
+          ]
+        }
+      },
+      "side1": {
+        "wordTranslation": null,
+        "sentenceTranslation": "It is hanging on the coat rack."
+      }
+    },
+    {
+      "id": "sent-coffee-q-20",
+      "deckId": "what-is-konjunktiv-ii",
+      "tags": [
+        "sentence",
+        "indirect-question"
+      ],
+      "side2": {
+        "signal": {
+          "emoji": "🔴",
+          "label": "Verb"
+        },
+        "word": null,
+        "grammar": "Indirect question with wie",
+        "sentence": {
+          "text": "Könnten Sie mir sagen, wie der Kaffeeautomat funktioniert?",
+          "segments": [
+            {
+              "text": "Könnten ",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": "Sie ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "mir ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "sagen",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": ", ",
+              "color": null,
+              "colorType": null
+            },
+            {
+              "text": "wie ",
+              "color": "#00897B",
+              "colorType": "fg"
+            },
+            {
+              "text": "der ",
+              "color": null,
+              "colorType": null
+            },
+            {
+              "text": "Kaffeeautomat ",
+              "color": "#1976D2",
+              "colorType": "fg"
+            },
+            {
+              "text": "funktioniert",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": "?",
+              "color": null,
+              "colorType": null
+            }
+          ]
+        }
+      },
+      "side1": {
+        "wordTranslation": null,
+        "sentenceTranslation": "Could you tell me how the coffee machine works?"
+      }
+    },
+    {
+      "id": "sent-coffee-a-21",
+      "deckId": "what-is-konjunktiv-ii",
+      "tags": [
+        "sentence",
+        "answer"
+      ],
+      "side2": {
+        "signal": {
+          "emoji": "🔴",
+          "label": "Verb"
+        },
+        "word": null,
+        "grammar": "man muss + infinitive",
+        "sentence": {
+          "text": "Man muss zuerst eine Tasse hinstellen und dann einen Knopf drücken.",
+          "segments": [
+            {
+              "text": "Man ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "muss ",
+              "color": "#1565C0",
+              "colorType": "fg"
+            },
+            {
+              "text": "zuerst ",
+              "color": "#E65100",
+              "colorType": "fg"
+            },
+            {
+              "text": "eine ",
+              "color": null,
+              "colorType": null
+            },
+            {
+              "text": "Tasse ",
+              "color": "#C2185B",
+              "colorType": "fg"
+            },
+            {
+              "text": "hinstellen ",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": "und ",
+              "color": null,
+              "colorType": null
+            },
+            {
+              "text": "dann ",
+              "color": "#E65100",
+              "colorType": "fg"
+            },
+            {
+              "text": "einen ",
+              "color": null,
+              "colorType": null
+            },
+            {
+              "text": "Knopf ",
+              "color": "#1976D2",
+              "colorType": "fg"
+            },
+            {
+              "text": "drücken",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": ".",
+              "color": null,
+              "colorType": null
+            }
+          ]
+        }
+      },
+      "side1": {
+        "wordTranslation": null,
+        "sentenceTranslation": "First you need to place a cup and then press a button."
+      }
+    },
+    {
+      "id": "sent-unreal-22",
+      "deckId": "what-is-konjunktiv-ii",
+      "tags": [
+        "sentence",
+        "unreal-condition"
+      ],
+      "side2": {
+        "signal": {
+          "emoji": "🔴",
+          "label": "Verb"
+        },
+        "word": null,
+        "grammar": "Unreal condition: Wenn ... hätte, würde ...",
+        "sentence": {
+          "text": "Wenn ich mehr Zeit hätte, würde ich reisen.",
+          "segments": [
+            {
+              "text": "Wenn ",
+              "color": null,
+              "colorType": null
+            },
+            {
+              "text": "ich ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "mehr ",
+              "color": "#E65100",
+              "colorType": "fg"
+            },
+            {
+              "text": "Zeit ",
+              "color": "#C2185B",
+              "colorType": "fg"
+            },
+            {
+              "text": "hätte",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": ", ",
+              "color": null,
+              "colorType": null
+            },
+            {
+              "text": "würde ",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": "ich ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "reisen",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": ".",
+              "color": null,
+              "colorType": null
+            }
+          ]
+        }
+      },
+      "side1": {
+        "wordTranslation": null,
+        "sentenceTranslation": "If I had more time, I would travel."
+      }
+    },
+    {
+      "id": "sent-indirect-23",
+      "deckId": "what-is-konjunktiv-ii",
+      "tags": [
+        "sentence",
+        "indirect-speech"
+      ],
+      "side2": {
+        "signal": {
+          "emoji": "🔴",
+          "label": "Verb"
+        },
+        "word": null,
+        "grammar": "Indirect speech: Er sagte, er wäre ...",
+        "sentence": {
+          "text": "Er sagte, er wäre krank.",
+          "segments": [
+            {
+              "text": "Er ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "sagte",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": ", ",
+              "color": null,
+              "colorType": null
+            },
+            {
+              "text": "er ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "wäre ",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": "krank",
+              "color": "#E65100",
+              "colorType": "fg"
+            },
+            {
+              "text": ".",
+              "color": null,
+              "colorType": null
+            }
+          ]
+        }
+      },
+      "side1": {
+        "wordTranslation": null,
+        "sentenceTranslation": "He said he was sick."
+      }
+    },
+    {
+      "id": "sent-jacket-ob-24",
+      "deckId": "what-is-konjunktiv-ii",
+      "tags": [
+        "sentence",
+        "indirect-question",
+        "perfekt"
+      ],
+      "side2": {
+        "signal": {
+          "emoji": "🔴",
+          "label": "Verb"
+        },
+        "word": null,
+        "grammar": "Indirect question with ob + Perfekt",
+        "sentence": {
+          "text": "Könnten Sie mir sagen, ob ihr meine Jacke gesehen habt?",
+          "segments": [
+            {
+              "text": "Könnten ",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": "Sie ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "mir ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "sagen",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": ", ",
+              "color": null,
+              "colorType": null
+            },
+            {
+              "text": "ob ",
+              "color": null,
+              "colorType": null
+            },
+            {
+              "text": "ihr ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "meine ",
+              "color": null,
+              "colorType": null
+            },
+            {
+              "text": "Jacke ",
+              "color": "#C2185B",
+              "colorType": "fg"
+            },
+            {
+              "text": "gesehen ",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": "habt",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": "?",
+              "color": null,
+              "colorType": null
+            }
+          ]
+        }
+      },
+      "side1": {
+        "wordTranslation": null,
+        "sentenceTranslation": "Could you tell me whether you (all) have seen my jacket?"
+      }
+    },
+    {
+      "id": "sent-jacket-ob-a-25",
+      "deckId": "what-is-konjunktiv-ii",
+      "tags": [
+        "sentence",
+        "perfekt",
+        "answer"
+      ],
+      "side2": {
+        "signal": {
+          "emoji": "🔴",
+          "label": "Verb"
+        },
+        "word": null,
+        "grammar": "Perfekt tense: haben + past participle",
+        "sentence": {
+          "text": "Ja, wir haben sie im Klassenzimmer gesehen.",
+          "segments": [
+            {
+              "text": "Ja",
+              "color": null,
+              "colorType": null
+            },
+            {
+              "text": ", ",
+              "color": null,
+              "colorType": null
+            },
+            {
+              "text": "wir ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "haben ",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": "sie ",
+              "color": "#1B5E20",
+              "colorType": "fg"
+            },
+            {
+              "text": "im ",
+              "color": "#6A1B9A",
+              "colorType": "fg"
+            },
+            {
+              "text": "Klassenzimmer ",
+              "color": "#388E3C",
+              "colorType": "fg"
+            },
+            {
+              "text": "gesehen",
+              "color": "#D32F2F",
+              "colorType": "fg"
+            },
+            {
+              "text": ".",
+              "color": null,
+              "colorType": null
+            }
+          ]
+        }
+      },
+      "side1": {
+        "wordTranslation": null,
+        "sentenceTranslation": "Yes, we saw it in the classroom."
+      }
+    }
+  ]
+}

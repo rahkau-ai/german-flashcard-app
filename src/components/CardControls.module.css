@@ -1,0 +1,44 @@
+.controls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+  padding: 12px 0;
+}
+
+.btn {
+  min-width: var(--touch-target);
+  min-height: var(--touch-target);
+  font-size: 22px;
+  color: var(--color-accent);
+  background: none;
+  border: 2px solid var(--color-border);
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.15s, border-color 0.15s, opacity 0.15s;
+}
+
+.btn:hover:not(:disabled) {
+  background: rgba(59, 91, 219, 0.08);
+  border-color: var(--color-accent);
+}
+
+.btn:disabled {
+  opacity: 0.3;
+  cursor: default;
+}
+
+.counter {
+  font-size: var(--font-size-counter);
+  font-weight: var(--font-weight-bold);
+  color: var(--text-primary);
+  min-width: 60px;
+  text-align: center;
+}
+
+.sep {
+  color: var(--text-muted);
+  margin: 0 2px;
+}
